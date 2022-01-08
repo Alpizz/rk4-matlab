@@ -1,5 +1,3 @@
-
-
 clc; clear; close all;
 
 % Define ODE given in the question.
